@@ -4,6 +4,8 @@ repo_name: SWJTUNSA-Wiki
 use_directory_urls: true
 
 theme:
+  logo: assets/img/logo.png
+  favicon: assets/img/logo remake.png
   name: material
   language: zh
   features:
