@@ -13,7 +13,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: light-blue
+      primary: deep-purple
       accent: orange
       toggle:
         icon: material/brightness-7
@@ -30,19 +30,32 @@ plugins:
   - search
 
 nav:
-  - 主页: index.md
+  - 主页:
+    - 简介: home/intro.md
   - 关于网安协会:
-    - 简介: about/introduction.md
     - 组成:
       - 部门: organize/departments.md
       - 群聊: organize/groups.md
     - 活动:
       - 线下培训: activities/training.md
       - CTF新秀杯: activities/rookie.md
-      - 省赛: activities/shengsai.md
+      - 网络安全宣传周: activities/week.md
+    - 荣誉: glory/glory.md
+  - 关于CTF:
+    - 简介: CTF/intro.md
+    - Misc: CTF/misc.md
+    - Web: CTF/web.md
+    - Crypto: CTF/crypto.md
+    - Reverse: CTF/reverse.md
+    - Pwn: CTF/pwn.md
+    - AI: CTF/ai.md
+    - Mobile: CTF/mobile.md
+    - OSINT: CTF/osint.md
   - 资料: 
+    - SWJTU-CTF平台: resources/swjtu-ctf.md
     - 相关链接: resources/links.md
 
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+  - attr_list
