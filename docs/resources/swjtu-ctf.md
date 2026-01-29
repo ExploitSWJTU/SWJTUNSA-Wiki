@@ -1,3 +1,1 @@
-西南交通大学CTF终端&emsp;```http://swjtuctf.com```
-
 > constructing...
