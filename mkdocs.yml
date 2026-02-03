@@ -32,15 +32,8 @@ plugins:
 nav:
   - 主页:
     - 简介: home/intro.md
-  - 关于网安协会:
-    - 组成:
-      - 部门: organize/departments.md
-      - 群聊: organize/groups.md
-    - 活动:
-      - 线下培训: activities/training.md
-      - CTF新秀杯: activities/rookie.md
-      - 网络安全宣传周: activities/week.md
-    - 荣誉: glory/glory.md
+  - 计算机与安全:
+    - 计算机: cs/security.md
   - 关于比赛:
     - 简介: CTF/intro.md
     - Misc: CTF/misc.md
@@ -51,7 +44,16 @@ nav:
     - AI: CTF/ai.md
     - Mobile: CTF/mobile.md
     - OSINT: CTF/osint.md
-  - 资料: 
+  - 关于网安协会:
+    - 组成:
+      - 部门: organize/departments.md
+      - 群聊: organize/groups.md
+    - 活动:
+      - 线下培训: activities/training.md
+      - CTF新秀杯: activities/rookie.md
+      - 网络安全宣传周: activities/week.md
+    - 荣誉: glory/glory.md
+  - 学习资料: 
     - SWJTU-CTF平台: resources/swjtu-ctf.md
     - 相关链接: resources/links.md
 
