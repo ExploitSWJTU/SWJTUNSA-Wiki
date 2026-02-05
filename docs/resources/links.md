@@ -26,4 +26,8 @@ stack overflow&emsp;```https://stackoverflow.com/```
 
 先知社区&emsp;```https://xz.aliyun.com/news```
 
-TSRC腾讯安全应急响应中心&emsp;```https://security.tencent.com/index.php/blog```
+腾讯安全应急响应中心&emsp;```https://security.tencent.com/index.php/blog```
+
+国家信息安全漏洞共享平台&emsp;```https://www.cnvd.org.cn/```
+
+CVE&emsp;```https://www.cve.org/```

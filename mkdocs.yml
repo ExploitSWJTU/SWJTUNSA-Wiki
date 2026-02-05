@@ -1,5 +1,5 @@
 site_name: SWJTUNSA-Wiki
-repo_url: https://github.com/exploitswjtu/SWJTUNSA-Wiki
+repo_url: https://github.com/ExploitSWJTU/SWJTUNSA-Wiki
 repo_name: SWJTUNSA-Wiki
 use_directory_urls: true
 
@@ -33,17 +33,16 @@ nav:
   - 主页:
     - 简介: home/intro.md
   - 计算机与安全:
-    - 计算机: cs/security.md
+    - 安全: cs/security.md
   - 关于比赛:
     - 简介: CTF/intro.md
-    - Misc: CTF/misc.md
+    - 适合我吗: CTF/suit.md
     - Web: CTF/web.md
+    - Binary: CTF/binary.md
     - Crypto: CTF/crypto.md
-    - Reverse: CTF/reverse.md
-    - Pwn: CTF/pwn.md
     - AI: CTF/ai.md
-    - Mobile: CTF/mobile.md
     - OSINT: CTF/osint.md
+    - Misc: CTF/misc.md
   - 关于网安协会:
     - 组成:
       - 部门: organize/departments.md
