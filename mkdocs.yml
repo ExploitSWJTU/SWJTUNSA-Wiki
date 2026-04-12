@@ -13,8 +13,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep-purple
-      accent: orange
+      primary: teal
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: 切换到暗色模式
