@@ -1,0 +1,2 @@
+# MkDocs 本地构建产物（执行 mkdocs build 会重新生成）
+site/

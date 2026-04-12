@@ -8,26 +8,30 @@ CTFHub&emsp;```https://www.ctfhub.com/#/index```
 
 ## 靶场推荐
 
+NSSCTF&emsp;```https://www.nssctf.cn/index```
+
+CTFshow&emsp;```https://ctf.show/```
+
 攻防世界&emsp;```https://adworld.xctf.org.cn/home/index```
 
 BUUCTF&emsp;```https://buuoj.cn/```
 
-CTFshow&emsp;```https://ctf.show/```
-
-NSSCTF&emsp;```https://www.nssctf.cn/index```
-
 Bugku&emsp;```https://ctf.bugku.com/```
 
-cryptohack&emsp;```https://cryptohack.org/```
+春秋云镜&emsp;```https://yunjing.ichunqiu.com/```
 
-## 博客推荐
+## 论坛推荐
 
 stack overflow&emsp;```https://stackoverflow.com/```
 
 先知社区&emsp;```https://xz.aliyun.com/news```
 
-腾讯安全应急响应中心&emsp;```https://security.tencent.com/index.php/blog```
+看雪&emsp;```https://bbs.kanxue.com/```
 
-国家信息安全漏洞共享平台&emsp;```https://www.cnvd.org.cn/```
+FreeBuf&emsp;```https://www.freebuf.com/```
 
-CVE&emsp;```https://www.cve.org/```
+## 其他
+
+西南交通大学OJ&emsp;```https://oj.swjtu.edu.cn/```
+
+魔搭社区&emsp;```https://www.modelscope.cn/home```

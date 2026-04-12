@@ -32,8 +32,6 @@ plugins:
 nav:
   - 主页:
     - 简介: home/intro.md
-  - 计算机与安全:
-    - 安全: cs/security.md
   - 关于比赛:
     - 简介: CTF/intro.md
     - 适合我吗: CTF/suit.md
@@ -41,7 +39,6 @@ nav:
     - Binary: CTF/binary.md
     - Crypto: CTF/crypto.md
     - AI: CTF/ai.md
-    - OSINT: CTF/osint.md
     - Misc: CTF/misc.md
   - 关于网安协会:
     - 组成:
