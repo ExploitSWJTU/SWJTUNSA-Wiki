@@ -106,13 +106,10 @@ title: 关注网安谢谢喵
         <img src="/assets/img/2026ciscn半决赛2.jpg" alt="2026 CISCN 半决赛" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
-        <img src="/assets/img/2026ciscn半决赛.jpg" alt="2026 CISCN 半决赛" loading="lazy" />
-      </div>
-      <div class="wiki-hero-carousel__slide">
         <img src="/assets/img/pic.jpg" alt="pic" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
-        <img src="/assets/img/2025省赛.jpg" alt="2025省赛" loading="lazy" />
+        <img src="/assets/img/ccb.jpg" alt="pic" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
         <img src="/assets/img/雷神托尔.jpg" alt="雷神托尔" loading="lazy" />
@@ -135,6 +132,7 @@ title: 关注网安谢谢喵
     var root = document.getElementById("wiki-hero-carousel");
     if (!root) return;
     var track = document.getElementById("wiki-hero-track");
+    var viewport = root.querySelector(".wiki-hero-carousel__viewport");
     var dotsHost = document.getElementById("wiki-hero-dots");
     var slides = track ? track.children.length : 0;
     if (slides < 2) return;
@@ -193,8 +191,10 @@ title: 关注网安谢谢喵
       armTimer();
     });
 
-    root.addEventListener("mouseenter", disarmTimer);
-    root.addEventListener("mouseleave", armTimer);
+    if (viewport) {
+      viewport.addEventListener("mouseenter", disarmTimer);
+      viewport.addEventListener("mouseleave", armTimer);
+    }
     root.addEventListener("focusin", disarmTimer);
     root.addEventListener("focusout", function (e) {
       if (!root.contains(e.relatedTarget)) armTimer();

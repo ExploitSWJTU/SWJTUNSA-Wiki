@@ -34,7 +34,6 @@ nav:
     - 简介: home/intro.md
   - 关于比赛:
     - 简介: CTF/intro.md
-    - 适合我吗: CTF/suit.md
     - Web: CTF/web.md
     - Binary: CTF/binary.md
     - Crypto: CTF/crypto.md
