@@ -35,7 +35,8 @@ nav:
   - 关于比赛:
     - 简介: CTF/intro.md
     - Web: CTF/web.md
-    - Binary: CTF/binary.md
+    - Pwn: CTF/pwn.md
+    - Reverse: CTF/reverse.md
     - Crypto: CTF/crypto.md
     - AI: CTF/ai.md
     - Misc: CTF/misc.md
@@ -51,6 +52,7 @@ nav:
   - 学习资料: 
     - SWJTU-CTF平台: resources/swjtu-ctf.md
     - 相关链接: resources/links.md
+  - 其他: other/other.md
 
 markdown_extensions:
   - pymdownx.highlight

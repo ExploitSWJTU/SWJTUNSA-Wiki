@@ -4,4 +4,6 @@
 
 ![培训](../assets/img/培训.png)
 
+![培训2](../assets/img/培训2.jpg)
+
 &emsp;

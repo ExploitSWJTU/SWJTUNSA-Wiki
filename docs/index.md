@@ -100,6 +100,12 @@ title: 关注网安谢谢喵
         <img src="/assets/img/logo remake.png" alt="网络安全协会logo" loading="eager" />
       </div>
       <div class="wiki-hero-carousel__slide">
+        <img src="/assets/img/合照.jpg" alt="合照" loading="lazy" />
+      </div>
+      <div class="wiki-hero-carousel__slide">
+        <img src="/assets/img/arch.jpg" alt="arch" loading="lazy" />
+      </div>
+      <div class="wiki-hero-carousel__slide">
         <img src="/assets/img/低客.jpg" alt="网络安全协会招新" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
@@ -109,9 +115,6 @@ title: 关注网安谢谢喵
         <img src="/assets/img/pic.jpg" alt="pic" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
-        <img src="/assets/img/ccb.jpg" alt="pic" loading="lazy" />
-      </div>
-      <div class="wiki-hero-carousel__slide">
         <img src="/assets/img/雷神托尔.jpg" alt="雷神托尔" loading="lazy" />
       </div>
       <div class="wiki-hero-carousel__slide">
@@ -119,6 +122,9 @@ title: 关注网安谢谢喵
       </div>
       <div class="wiki-hero-carousel__slide">
         <img src="/assets/img/新秀杯活动照片.png" alt="CTF 新秀杯活动" loading="lazy" />
+      </div>
+      <div class="wiki-hero-carousel__slide">
+        <img src="/assets/img/bcbn.png" alt="CTF NSA" loading="lazy" />
       </div>
     </div>
   </div>

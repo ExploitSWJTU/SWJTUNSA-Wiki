@@ -36,4 +36,4 @@ FreeBuf&emsp;```https://www.freebuf.com/```
 
 魔搭社区&emsp;```https://www.modelscope.cn/home```
 
-CS自学指南&emsp```https://csdiy.wiki```
+CS自学指南&emsp;```https://csdiy.wiki```
