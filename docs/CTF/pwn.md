@@ -1,5 +1,7 @@
 **【你想有多PWN(不再更新)】**
 
+讲的很细，但相应的时间也很长。但只有栈溢出和异架构。可能用来0基础入门吧（
+
 <a href="https://www.bilibili.com/video/BV1mr4y1Y7fW/" target="_blank">一键跳转</a>
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=765776002&bvid=BV1mr4y1Y7fW&cid=487464635&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460"></iframe>
@@ -16,7 +18,15 @@
 
 &emsp;
 
-网络安全 pwn 堆利用
+**HWS培训**
+
+<a href="https://study.163.com/course/courseLearn.htm?courseId=1210562802" target="_blank">一键跳转</a>
+
+内容很全，但不是0基础看的，可以在了解基础知识后作为补充看
+
+&emsp;
+
+**网络安全 pwn 堆利用**
 
 <a href="https://pan.baidu.com/s/14zFCpB4IFTbxT4Tl8vy98Q?pwd=fefi" target="_blank">一键跳转</a>
 

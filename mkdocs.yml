@@ -39,7 +39,7 @@ nav:
     - Reverse: CTF/reverse.md
     - Crypto: CTF/crypto.md
     - Misc: CTF/misc.md
-  - 关于网安协会:
+  - 关于协会:
     - 组成:
       - 部门: organize/departments.md
       - 群聊: organize/groups.md
@@ -49,6 +49,7 @@ nav:
       - 网络安全宣传周: activities/week.md
     - 荣誉: glory/glory.md
   - 学习资料: 
+    - 写在之前: resources/intro.md
     - SWJTU-CTF平台: resources/swjtu-ctf.md
     - 相关链接: resources/links.md
   - 其他: other/other.md
