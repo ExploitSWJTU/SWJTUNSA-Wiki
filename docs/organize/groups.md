@@ -4,6 +4,6 @@
 
 ## 友社群聊
 
-| ACM协会通知&交流群 | SWJTU-ACM交流群 |
+| ACM协会通知群 | ACM协会交流群 |
 |:---:|:---:|
-| ![ACM协会通知&交流群](../assets/img/qqgroup3.jpg){ width="80%" } | ![SWJTU-ACM交流群](../assets/img/qqgroup4.jpg){ width="80%" } |
+| ![ACM协会通知群](../assets/img/qqgroup3.jpg){ width="80%" } | ![ACM协会交流群](../assets/img/qqgroup4.jpg){ width="80%" } |
